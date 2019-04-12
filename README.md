@@ -7,7 +7,7 @@ Install [Docker] and [Compose]
 
 ## Usage
 ```
-clone the repository using the below command:
+Clone the repository using the below command:
 
 git clone https://github.com/gauravbhaskar84/ansible-test.git
 cd ansible-test
